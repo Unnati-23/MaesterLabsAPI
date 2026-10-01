@@ -69,7 +69,7 @@ standard = [
     # To validate email fields
     "email-validator >=2.0.0",
     # Uvicorn with uvloop
-    "uvicorn[standard] >=0.12.0",
+    "uvicorn[standard]>=0.53.0",
     # # Settings management
     "pydantic-settings >=2.0.0",
     # # Extra Pydantic data types
@@ -87,7 +87,7 @@ standard-no-fastapi-cloud-cli = [
     # To validate email fields
     "email-validator >=2.0.0",
     # Uvicorn with uvloop
-    "uvicorn[standard] >=0.12.0",
+    "uvicorn[standard]>=0.53.0",
     # # Settings management
     "pydantic-settings >=2.0.0",
     # # Extra Pydantic data types
@@ -109,7 +109,7 @@ all = [
     # To validate email fields
     "email-validator >=2.0.0",
     # Uvicorn with uvloop
-    "uvicorn[standard] >=0.12.0",
+    "uvicorn[standard]>=0.53.0",
     # Settings management
     "pydantic-settings >=2.0.0",
     # Extra Pydantic data types
